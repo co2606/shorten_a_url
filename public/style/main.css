@@ -1,0 +1,46 @@
+@import url("https://fonts.googleapis.com/css?family=Muli");
+@import url("https://fonts.googleapis.com/css?family=Muli|Open+Sans");
+
+
+body {
+	background-color: #f4f4f4;
+	font-family: 'Open Sans', sans-serif;
+}
+.box {
+	margin-top: 5%;
+}
+.header {
+	font-family: 'Muli', sans-serif;
+	color: #4484ce;
+	font-size: 40px;
+	letter-spacing: 2px;
+	text-align: center;
+	padding: 3% 0 5% 0;
+}
+.sectionTitles {
+	color: #828081;
+	font-size: 20px;
+	padding-bottom: 2%;
+	padding-top: 8%;
+}
+.text {
+	padding-left: 3%;
+}
+.link {
+	color: #4484ce;
+}
+.center {
+	text-align: center;
+}
+.toBold {
+	font-weight: bold;
+}
+.outputStyle {
+	color: #ff383f;
+}
+.bottom {
+	padding-top: 12%;
+	padding-bottom: 5%;
+	text-align: center;
+	font-size: 12px;
+}

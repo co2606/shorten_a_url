@@ -1,0 +1,30 @@
+{
+  "name": "url_shortener",
+  "version": "1.0.0",
+  "description": "Shortens URLs passed as parameters",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hbontz/shorten_a_url.git"
+  },
+  "author": "Hbontz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hbontz/shorten_a_url/issues"
+  },
+  "homepage": "https://github.com/Hbontz/shorten_a_url#readme",
+  "dependencies": {
+    "express": "^4.14.1",
+    "mongodb": "^2.2.22",
+    "valid-url": "^1.0.9"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "eslint": "^3.14.1",
+    "mocha": "^3.2.0"
+  }
+}
