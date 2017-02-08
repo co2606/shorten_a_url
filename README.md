@@ -6,8 +6,8 @@ Add /new followed by a valid website address to the end of the URL on this site 
 
 ### Example Input
 
-[http://a-request-header-parser.herokuapp.com/api/whoami](https://a-shorter-url.herokuapp.com/new/https://www.google.com)
+[https://a-shorter-url.herokuapp.com/new/https://www.google.com](https://a-shorter-url.herokuapp.com/new/https://www.google.com)
 
 ### Example Output
 
-{ originalUrl: "https://www.google.com", shortUrl: "https://a-shorter-url.herokuapp.com/Dqdwa" }
+{ originalUrl: "https://www.google.com", shortUrl: "https://a-shorter-url.herokuapp.com/mt2bB" }
