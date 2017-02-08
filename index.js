@@ -7,8 +7,6 @@ var app = express();
 
 var port = process.env.PORT || 8080;
 
-//var mongoUrl = 'mongodb://hilz:0zziizz0@ds139979.mlab.com:39979/a-url-db';
-
 var mongoUrl = process.env.MONGOLAB_URI;
 
 app.use('/', express.static('public'));
